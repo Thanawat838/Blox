@@ -1,3 +1,5 @@
+_G.FastAttack1 = true
+
 local CombatShaker = require(game:GetService("Players").LocalPlayer.PlayerScripts.CombatFramework.CameraShaker)
 local CombatFrameworkR = require(game:GetService("Players").LocalPlayer.PlayerScripts.CombatFramework) 
 local CameraShakerR = require(game.ReplicatedStorage.Util.CameraShaker)
